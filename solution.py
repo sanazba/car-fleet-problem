@@ -84,4 +84,4 @@ if __name__ == "__main__":
     target3 = 100
     position3 = [0, 2, 4]
     speed3 = [4, 2, 1]
-    print(f"Test 3: {carFleet(target3, position3, speed3)}")  # Expected: 1
+    print(f"Test 3: {carFleet(target3, position3, speed3)}")  # Expected: 1# test
